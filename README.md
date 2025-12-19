@@ -5,7 +5,7 @@
 #### I usually work as a studio engineer and live streaming crew, handling both on-site operations and technical system design.
 
 
-#### - Social Link -
+### - Social Link -
 <div style="display:inline-flex; gap:8px; align-items:center;">
     <a href="https://github.com/mitsuki193" target="_blank" style="text-decoration:none; display:inline-block;"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://x.com/kuripa6287921" target="_blank" style="text-decoration:none; display:inline-block;"><img src="https://img.shields.io/badge/X-000000.svg?logo=x&style=for-the-badge"></a>
