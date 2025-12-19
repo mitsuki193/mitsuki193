@@ -15,6 +15,20 @@
 
 # Technologies and tools
 
+<img alt="Windows" src="https://custom-icon-badges.herokuapp.com/badge/Windows-1BB2E4.svg?style=for-the-badge&logo=Windows&logoColor=white" />
+<img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-178600.svg?style=for-the-badge&logo=cs2&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C.svg?style=for-the-badge&logo=cmake&logoColor=white" />
+<img alt="Unity" src="https://custom-icon-badges.herokuapp.com/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
+<img alt="Blackmagic Design" src="https://custom-icon-badges.herokuapp.com/badge/Blackmagic-000000.svg?style=for-the-badge&logo=blackmagicdesign&logoColor=white" />
+<img alt="TouchDesigner" src="https://custom-icon-badges.herokuapp.com/badge/TouchDesigner-000000.svg?style=for-the-badge&logo=touchdesigner&logoColor=white" />
+<img alt="Resolume" src="https://custom-icon-badges.herokuapp.com/badge/Resolume-000000.svg?style=for-the-badge&logo=resolume&logoColor=white" />
+<img alt="vMix" src="https://custom-icon-badges.herokuapp.com/badge/vMix-2D72D9.svg?style=for-the-badge&logo=vmix&logoColor=white" />
+<img alt="DMX512" src="https://custom-icon-badges.herokuapp.com/badge/DMX512-6A6A6A.svg?style=for-the-badge&logo=lighting&logoColor=white" />
+<img alt="Art-Net" src="https://custom-icon-badges.herokuapp.com/badge/Art--Net-FF6A00.svg?style=for-the-badge&logo=ethernet&logoColor=white" />
+<img alt="OptiTrack" src="https://custom-icon-badges.herokuapp.com/badge/OptiTrack-00AEEF.svg?style=for-the-badge&logo=motion&logoColor=white" />
+<img alt="Network" src="https://custom-icon-badges.herokuapp.com/badge/Network-555555.svg?style=for-the-badge&logo=network-wired&logoColor=white" />
+
 # GitHub Stats
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
