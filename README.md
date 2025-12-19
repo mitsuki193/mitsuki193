@@ -27,6 +27,7 @@
     <img alt="DMX512" src="https://custom-icon-badges.herokuapp.com/badge/DMX512-6A6A6A.svg?style=for-the-badge&logo=lighting&logoColor=white">
     <img alt="Art-Net" src="https://custom-icon-badges.herokuapp.com/badge/Art--Net-FF6A00.svg?style=for-the-badge&logo=ethernet&logoColor=white">
     <img alt="OptiTrack" src="https://custom-icon-badges.herokuapp.com/badge/OptiTrack-00AEEF.svg?style=for-the-badge&logo=motion&logoColor=white">
+    <img alt="NDI" src="https://custom-icon-badges.herokuapp.com/badge/NDI-00AEEF.svg?style=for-the-badge&logo=ndi&logoColor=white">
     <img alt="Network" src="https://custom-icon-badges.herokuapp.com/badge/Network-555555.svg?style=for-the-badge&logo=network-wired&logoColor=white">
 </div>
 
