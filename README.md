@@ -31,6 +31,9 @@
     <img alt="Network" src="https://custom-icon-badges.herokuapp.com/badge/Network-555555.svg?style=for-the-badge&logo=network-wired&logoColor=white">
 </div>
 
+### - Licenses & Certifications -
+- NDI Basics Certificate (18/12/2025)
+
 
 # GitHub Stats
 <table border="0" cellspacing="0" cellpadding="0">
