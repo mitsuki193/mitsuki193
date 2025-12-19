@@ -20,7 +20,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mitsuki193&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<br>
+<div style="margin-top:15px;"></div>
 
 <a href="https://github.com/mitsuki193">
     <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mitsuki193&count_private=true&theme=github-compact"/>
