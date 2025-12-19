@@ -14,16 +14,16 @@
 # Technologies and tools
 
 # GitHub Stats
-<table bgcolor="#0d1117" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" bgcolor="#0d1117">
+    <td align="center">
       <a href="https://github.com/mitsuki193">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki193&hide=java,html,tex&langs_count=3&card_width=445&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki193&hide=java,html,tex&langs_count=3&card_width=445&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
       </a>
     </td>
-    <td align="center" bgcolor="#0d1117">
+    <td align="center">
       <a href="https://github.com/mitsuki193">
-        <img src="https://github-readme-stats.vercel.app/api?username=mitsuki193&show_icons=true&count_private=true&line_height=27&card_width=445&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mitsuki193&show_icons=true&count_private=true&line_height=27&card_width=445&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
       </a>
     </td>
   </tr>
