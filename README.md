@@ -23,6 +23,7 @@
     <img alt="Blackmagic Design" src="https://custom-icon-badges.herokuapp.com/badge/Blackmagic-000000.svg?style=for-the-badge&logo=blackmagicdesign&logoColor=white">
     <img alt="TouchDesigner" src="https://custom-icon-badges.herokuapp.com/badge/TouchDesigner-000000.svg?style=for-the-badge&logo=touchdesigner&logoColor=white">
     <img alt="Resolume" src="https://custom-icon-badges.herokuapp.com/badge/Resolume-000000.svg?style=for-the-badge&logo=resolume&logoColor=white">
+    <img alt="OBS" src="https://custom-icon-badges.herokuapp.com/badge/OBS-555555.svg?style=for-the-badge&logo=obsproject&logoColor=white">
     <img alt="vMix" src="https://custom-icon-badges.herokuapp.com/badge/vMix-2D72D9.svg?style=for-the-badge&logo=vmix&logoColor=white">
     <img alt="DMX512" src="https://custom-icon-badges.herokuapp.com/badge/DMX512-6A6A6A.svg?style=for-the-badge&logo=lighting&logoColor=white">
     <img alt="Art-Net" src="https://custom-icon-badges.herokuapp.com/badge/Art--Net-FF6A00.svg?style=for-the-badge&logo=ethernet&logoColor=white">
