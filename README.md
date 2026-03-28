@@ -9,7 +9,7 @@
 <div style="display:inline-flex; gap:8px; align-items:center;">
     <a href="https://github.com/mitsuki193" target="_blank" style="text-decoration:none; display:inline-block;"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://x.com/mitsuki193_" target="_blank" style="text-decoration:none; display:inline-block;"><img src="https://img.shields.io/badge/X-000000.svg?logo=x&style=for-the-badge"></a>
-    <a href="https://qiita.com/Kuripa_chan" target="_blank" style="text-decoration:none; display:inline-block;"><img src="https://img.shields.io/badge/-Qiita-55C5.svg?logo=qiita&style=for-the-badge"></a>
+    <a href="https://qiita.com/mitsuki193" target="_blank" style="text-decoration:none; display:inline-block;"><img src="https://img.shields.io/badge/-Qiita-55C5.svg?logo=qiita&style=for-the-badge"></a>
     <a href="https://discord.gg/招待コード" target="_blank" style="text-decoration:none; display:inline-block;"><img src="https://img.shields.io/badge/-Discord-7289DA.svg?logo=discord&style=for-the-badge"></a>
     <a href="https://mitsuki193.dev" target="_blank" style="text-decoration:none; display:inline-block;"><img src="https://img.shields.io/badge/-Website-000000.svg?logo=google-chrome&style=for-the-badge&logoColor=white">
 </a>
