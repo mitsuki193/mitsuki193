@@ -36,7 +36,7 @@
 
 ### - Licenses & Certifications -
 - NDI Basics Certificate (18/12/2025)
-
+- AV Certification Level 1 – AVIXA / NETGEAR Academy (13/04/2026)
 
 # GitHub Stats
 <table border="0" cellspacing="0" cellpadding="0">
